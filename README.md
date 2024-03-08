@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student from India<br>pursuing a dream of becoming an iOS developer.<br>I want to build apps that can help everyone with <br>their daily life problems.<br> <br>🌱 I’m currently learning iOS development <br>💬 Ask me about my current ongoing projects and my future plans regarding career<br>⚡ Grinding leetcode 
+I'm a computer science student from India<br>pursuing a dream of becoming an iOS developer.<br>I want to build apps that can help everyone with <br>their daily life problems.<br> <br>🌱 I’m currently learning iOS development <br>💬 Ask me about my current ongoing projects and my future plans regarding career<br>⚡ Grinding leetcode<br> HAPPY CODING👨‍💻
 
 
 ## 🌐 Socials:
